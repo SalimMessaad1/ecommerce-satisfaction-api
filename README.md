@@ -27,4 +27,4 @@ The API doesn't just predict; it prescribes actions:
 ##  Installation & Setup
 1. **Clone the repo:**
    ```bash
-   git clone [https://github.com/salimmessaad1/ecommerce-satisfaction-api.git](https://github.com/salimmessaad1/ecommerce-satisfaction-api.git)
+   git clone https://github.com/salimmessaad1/ecommerce-satisfaction-api.git
