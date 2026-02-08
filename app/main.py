@@ -70,5 +70,5 @@ def predict_satisfaction(data: CustomerData):
         }
 
     except Exception as e:
-        # Returns the exact error for debugging (will show in Swagger)
+        # Returns the exact error for debugging (will show in Swagger UI)
         raise HTTPException(status_code=500, detail=f"Prediction Error: {str(e)}")
