@@ -1,4 +1,4 @@
-# smart E-commerce Customer Retention API
+# Smart E-commerce Customer Retention API
 
 A machine learning-powered REST API built with FastAPI that predicts customer satisfaction levels and suggests immediate business actions (Discounts, Surveys, etc.) to improve retention.
 
